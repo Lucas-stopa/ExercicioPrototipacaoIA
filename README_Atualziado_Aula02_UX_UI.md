@@ -897,6 +897,13 @@ poderá simplificar a gestão de clientes, a disponibilização de
 documentos e o acompanhamento de solicitações, transformando os
 requisitos documentados em uma experiência de uso clara e navegável.
 
+## 🚀 Protótipo Online
+
+Acesse o protótipo navegável do Conecta Contábil desenvolvido no Lovable:
+
+👉 [Clique aqui para acessar o Conecta Contábil](https://conecta-contabil-compass.lovable.app/)
+
+
 ------------------------------------------------------------------------
 
 **Projeto acadêmico -- Prototipação Rápida de Aplicações com IA -- Aulas
