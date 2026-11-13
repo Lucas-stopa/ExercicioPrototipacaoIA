@@ -224,4 +224,11 @@ O **Conecta Contábil** pretende oferecer uma solução simples e acessível par
 
 ---
 
+## 🚀 Protótipo Online
+
+Acesse o protótipo navegável do Conecta Contábil desenvolvido no Lovable:
+
+👉 [Clique aqui para acessar o Conecta Contábil](https://conecta-contabil-compass.lovable.app/)
+
+
 **Projeto acadêmico – Prototipação Rápida de Aplicações com IA**
